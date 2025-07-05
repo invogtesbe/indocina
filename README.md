@@ -1,2 +1,1 @@
-# indocina
-indocina
+# [indocina](https://indocina.pages.dev)
